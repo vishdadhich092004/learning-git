@@ -1,6 +1,8 @@
 body{
-    background: olive;
+    background: purple;
 }
 h1{
     color: blue;
+    font-size: xx-small;
+    text-decoration: underline;
 }
